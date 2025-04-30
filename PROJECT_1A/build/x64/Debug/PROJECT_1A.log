@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\GLP\PROJECT_1A\Main.cpp(219,26): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\PROJECT_1A\Main.cpp(219,26): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\GLP\PROJECT_1A\Main.cpp(223,18): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\PROJECT_1A\Main.cpp(223,18): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\GLP\PROJECT_1A\Main.cpp(227,15): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\GLP\PROJECT_1A\Main.cpp(227,15): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+  PROJECT_1A.vcxproj -> C:\GLP\PROJECT_1A\x64\Debug\PROJECT_1A.exe
